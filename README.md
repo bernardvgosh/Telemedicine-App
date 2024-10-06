@@ -2,19 +2,6 @@
 <img src="/Images/Main.png">
 
 Create great medical mobile experiences that connect healthcare, clinics, and patients on a single platform.
-
-## 🌟 All-inclusive
-We ensure that the medical app we develop fits all communication needs of both doctors and patients.
-
-## 🔒 Security
-Handling all security and privacy issues while interacting between applications is vital to preserve user confidentiality and trust on the platform.
-
-## 👩‍⚕️ Online Doctor Compliant
-We ensure that all medical and healthcare regulatory criteria are met by the First Care Digital apps.
-
-## ✨ Seamless Experience
-Our goal is to provide customers with seamless mobile experiences, clearly communicating the app's core concepts.
-
 ---
 
 ## 📹 Telehealth Application with Video Consultation
