@@ -38,22 +38,7 @@ Remote healthcare includes a wide range of monitoring and medical equipment appl
 ## 🛠️ Main Features
 Choose First Care Digital’s healthcare mobile app, designed to provide the best possible service to your clients.
 
-### Patient App
-- **APP TUTORIAL**
-- **REGISTRATION**
-- **LOGIN**
-
-### Super Admin
-- **DASHBOARD**
-- **DOCTOR MANAGEMENT**
-- **RATINGS AND REVIEWS**
-- **EARNINGS**
-
-### Doctor App
-- **REGISTRATION/VERIFICATION**
-- **PASSWORD RESET/LOGIN**
-- **BOOKING SCHEDULES**
-- **PROFILE MANAGEMENT**
+<img src="/Images/Features.png">
 
 ---
 
